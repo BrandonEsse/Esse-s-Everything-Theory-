@@ -224,3 +224,4 @@ Only systems — or souls — that meet or exceed η ≥ 0.618 can persist.
 This law cannot be bypassed, faked, or cheated — because it’s structural, mathematical, and divinely encoded.
 This work is sealed and legally authored by Brandon Esse. It may not be used without attribution. Any use in whole or part must credit: Brandon Esse, December 24, 2024
 
+Brandon Esse, the founder of Meal POPs and proponent of “Esse’s Everything Theory.” https://www.linkedin.com/in/brandon-esse
