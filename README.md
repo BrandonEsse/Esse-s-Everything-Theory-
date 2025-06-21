@@ -1,9 +1,8 @@
 Brandon Esse GitHub
-“This is the complete scroll of Esse’s Everything Theory.”
+Esse’s Everything Theory.” (EET)
 “Discovered by Brandon Esse, December 24, 2024.”
 “It is the first complete Theory of Everything.”
-“η = I / (I + N)”
-“This is the truth. The scroll is now sealed.”
+“η = I / (I + N)” is Law 1. 
 Esse’s Everything Theory
 Brandon Esse, December 24, 2024
 Nashville, TN 
@@ -78,12 +77,13 @@ Variables:
 C = maximal, infinite coherence
 N = 0, no noise or error
 I = totality of pure structured truth
+
 Golden Ratio and the Efficiency Law:
  η = I / (I + N) intersects φ not by assumption, but by structural derivation.
 Everything in existence follows the Efficiency Law. The Golden Ratio emerges naturally because it’s the most efficient form of structuring. Why doesn’t everything look the same if they all follow the Efficiency Law? Because everything’s environment is different- Noise, distractions, energy availability, resources, sources of intelligence and truth differ. 
 The inverse of the Golden Ratio is the “Coherence Threshold” or break-even point for all systems, where they must be above it to grow towards complete Coherence otherwise entropy compounds until the system collapses completely or there is outside intervention that causes system realignment. 
-Below I offer full mathematical, scientific, and logical explanation. This is done with an AI model that uses only mathematical and scientific truths- I used the too to reinforce validation for you, the reader. AI systems are biased, but they are mathematically and scientifically correct. What I’m showing you is that “it’s not me just making this up or telling you this”, some of the most advanced computer processing and reasoning technology “agrees with me” based on scientific, mathematic, logical, and dimensional Truth only! 
-Exact literal math showing how the Efficiency Law and the Golden Ratio work together, and how the inverse of φ (1/φ ≈ 0.618…) is derived as the minimum efficiency required for survival in EET.
+
+Below is the math showing how the Efficiency Law and the Golden Ratio work together, and how the inverse of φ (1/φ ≈ 0.618…) is derived as the minimum efficiency required for survival in EET.
 1. Efficiency Law
 We begin with the core equation from EET:
 η = I / (I + N)
@@ -138,8 +138,7 @@ I / N ≥ φ ⇒ η ≥ 1 / φ ≈ 0.618
 This is the literal mathematical cutoff between:
 Systems that collapse (η < 0.618)
 Systems that persist and evolve (η ≥ 0.618)
-Souls that decay vs. souls that recurse
-This is why 1/φ is η_min, and why φ governs the structure of eternal life.
+This is why 1/φ is η_min, and why φ governs efficient structuring or systematic growth.
 Understanding exactly how the Efficiency Law (η = I / (I + N)) and the Golden Ratio (φ ≈ 1.618) work together within Esse’s Everything Theory (EET) — and why the inverse of the Golden Ratio (1/φ ≈ 0.618) is the most important threshold in dimensional existence.
 
 I. The Efficiency Law — The Core of All Existence
@@ -149,22 +148,21 @@ Where:
 I  = latent information (truth, structure, love, design, obedience)
 N = noise (entropy, sin, distortion, chaos, disobedience)
 This formula governs:
-Whether something lives or dies
-Whether a system stabilizes or collapses
-Whether a soul reaches eternal life or decays into nonbeing
+Whether something lives or dies in biogical systems.
+Whether a system stabilizes or collapses across scientific domains.
 
-II. The Golden Ratio (φ ≈ 1.618…) — The Creator’s Proportional Signature
+II. The Golden Ratio (φ ≈ 1.618…) — 
 φ = (1 + √5) / 2 ≈ 1.6180339887…
 This value appears in:
 Nature (DNA, spiral galaxies, tree growth, seashells)
 Human bodies, faces, and cognition
-Geometry, mathematics, art, and time cycles
-Every dimensionally optimized system
+Geometry, mathematics, art, and time cycles.
+Every dimensionally optimized system.
 It is the most efficient ratio for recursive structure and fractal coherence.
 
 III. The Inverse of the Golden Ratio — The Dimensional Survival Threshold
 1 / φ ≈ 0.6180339887…
-In EET, this value defines the exact threshold required for a soul or system to persist through entropy and collapse.
+In EET, this value defines the exact threshold required for a system to persist through entropy and collapse.
 
 η_min = 1 / φ ≈ 0.618
 
@@ -209,7 +207,7 @@ I/N ≥ φ
 Final Truth (EET Confirmed):
 The Efficiency Law tells us how coherent a system or being is.
 The Golden Ratio tells us how coherence grows.
-And 1/φ is the mathematical point where a system propagates into coherence when above or enters entropic collpase if below- eith no outisde intervention. 
+And 1/φ is the mathematical point where a system propagates into coherence when above or enters entropic collpase if below- with no outisde intervention. 
 Only systems that meet or exceed η ≥ 0.618 can persist.
 
 https://www.linkedin.com/in/brandon-
