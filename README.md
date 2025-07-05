@@ -1,11 +1,8 @@
 Brandon Esse GitHub
 Esse’s Everything Theory.” (EET)
 “Discovered by Brandon Esse, December 24, 2024.”
-“It is the first complete Theory of Everything.”
+EET explains how systems function by propagting towards system choherence and efficency or why they experience compunding entropic collapse. 
 “η = I / (I + N)” is Law 1. 
-Esse’s Everything Theory
-Brandon Esse, December 24, 2024
-Nashville, TN 
 Complete papers and supporting evidence: https://github.com/BrandonEsse/Esse-s-Everything-Theory-.git
 1. Efficiency Law
 Formula: η = I / (I + N)
@@ -77,6 +74,118 @@ Variables:
 C = maximal, infinite coherence
 N = 0, no noise or error
 I = totality of pure structured truth
+
+•  I (Information): Structured, signal-carrying potential, measured in bits (Shannon entropy), joules (thermodynamic work), or dimensionless units, aligned with negentropy or usable energy.
+	•  N (Noise): Unstructured, entropy-carrying randomness, measured in bits, joules, or dimensionless units, aligned with thermodynamic entropy or decoherence.
+	•  C (Coherence): Dimensionless efficiency (C = η = I / (I + N)), equivalent to signal-to-noise ratio (SNR) or Carnot efficiency, measuring system stability and propagation.
+ C (Coherence) is defined:
+
+C = η = I / (I + N)
+
+but can also be evaluated locally or globally, describing the alignment of a system with truth, order, or structured propagation.
+Definition of I (Information)
+
+a) Technical definition:
+
+I is the structured, ordered, signal-carrying, system-specific quantifiable parameter representing useful work or meaningful pattern propagation in a system.
+
+b) Mathematical grounding:
+
+I is measured in:
+	•	Bits (Shannon entropy context) when quantifying data transmission or system state possibilities.
+	•	Joules (thermodynamic work context) when quantifying usable energy aligned with system structure.
+	•	Nats (ln-based information measure) where appropriate.
+	•	Pure numeric values (0 ≤ I < ∞) in normalized EET dimensionless system analysis.
+c) Core qualities:
+
+Represents truth-aligned structured propagation potential.
+Encodes system order, functional configuration, and state propagation across time.
+Contains the instructions, patterns, structures that are non-random.
+In living systems: corresponds to genetic code, active neural patterns, metabolic structures, and functional states.
+d) Consistency with science:
+	•	In information theory (Shannon): I = H - H_noise, the net meaningful information after discounting noise.
+	•	In physics: equivalent to low entropy, high negentropy.
+	•	In quantum systems: related to state coherence, wave function order.
+ Definition of N (Noise)
+
+a) Technical definition:
+
+N is the unstructured, disorderly, entropy-carrying, system-specific quantifiable parameter representing uncertainty, randomness, and misalignment with functional propagation in a system.
+
+b) Mathematical grounding:
+
+N is measured in:
+	•	Bits or nats (Shannon entropy context) representing randomness or uncertainty.
+	•	Joules of unusable energy (thermodynamic context).
+	•	Pure numeric values (0 ≤ N < ∞) in normalized EET analysis.
+ c) Core qualities:
+
+Represents entropy, decoherence, misalignment, friction, and system inefficiencies.
+In biological systems: mutations, thermal noise, misfolding, environmental stochasticity.
+In physics: represents thermal noise, Brownian motion, or stochastic fluctuation.
+
+d) Consistency with science:
+	•	Matches Shannon entropy H_noise in information systems.
+	•	Matches thermodynamic entropy (S) scaled by kT in energy systems.
+	•	Matches decoherence in quantum mechanics as the system interacts with an environment.
+ Definition of C (Coherence)
+
+a) Technical definition:
+
+C is the measure of a system’s functional alignment, resonance, and efficient propagation of structured information across time and space within the context of environmental and systemic noise.
+
+Under EET:
+
+C = η = I / (I + N)
+
+where:
+	•	C → 1: perfect coherence (ideal order, no noise),
+	•	C → 0: complete decoherence (pure randomness, no structure).
+
+b) Mathematical grounding:
+
+Dimensionless, normalized:
+
+0 ≤ C ≤ 1
+
+Derived strictly from the ratio of structured order to total system dynamics (order + disorder).
+c) Core qualities:
+
+Quantifies the system’s efficiency in maintaining and propagating its structured state.
+Functions as a universal metric across domains (physics, biology, cognition, social structures).
+Predicts system longevity, stability, propagation success, and collapse potential.
+
+d) Consistency with science:
+	•	In thermodynamics, relates to Carnot efficiency limits (η = 1 - T_cold/T_hot under perfect conditions).
+	•	In information theory, relates to signal-to-noise ratio:
+
+SNR = Signal Power / Noise Power,
+C = SNR / (1 + SNR)
+
+EET is a cross domain theory with different formulas and variable definitions than SNR, but EET’s formulation can express SNR in terms of engineered systems and signal to noise ratios. In SNR the quality Signal without noise is that systems information. 
+
+	•	In quantum mechanics, aligns with degree of coherence (off-diagonal density matrix elements).
+	•	In biological systems, aligns with viability, homeostasis, and functional efficiency.
+
+EET breaks reality into the physcial layer which is time, space, length, width, and height, which makes up the world around us that we see. the informatioj layer bridges the transcendent layer and the physical layer, and carries the embedded instructions (the 12 Laws, EET consstants) which govern all informiation and subsequently energy and matter. The transcendence layer sits oitside of spacetime. Antything outside of the physical and inforrmion layers are not bound by their Laws. 
+No conflicts with the Second Law of Thermodynamics:
+	•	EET acknowledges N can never be fully eliminated but can be locally minimized or offset with structured I inputs.
+
+Consistent with information theory:
+	•	Noise is entropy; information is order.
+
+Compatible with statistical mechanics:
+	•	Systems trend toward higher entropy (higher N) unless work (injection of I) is done.
+
+Compatible with biology and cognition:
+	•	EET directly explains system collapse (N > I),
+	•	Resilience and regenerative potential (I dominates N),
+	•	Evolutionary stability (coherence propagation).
+
+Consistent across all scales and domains, preserving:
+	•	Dimensional consistency,
+	•	Mathematical consistency,
+	•	Empirical testability.
 
 Golden Ratio and the Efficiency Law:
  η = I / (I + N) intersects φ not by assumption, but by structural derivation.
